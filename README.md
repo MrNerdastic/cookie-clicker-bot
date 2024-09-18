@@ -1,1 +1,2 @@
-# cookie-clicker-bot
+# Cookie Clicker Bot
+Work in progress...
